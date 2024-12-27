@@ -1,0 +1,21 @@
+#/home/kallilzie/.local/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9013 --control=9011 --hb=9010 --Session.signature_scheme="hmac-sha256" --Session.key=b"af31ca11-3e93-461c-b28a-d4d237d75810" --shell=9012 --transport="tcp" --iopub=9014 --f=/home/kallilzie/.local/share/jupyter/runtime/kernel-72517sERSCsUfKd71.json
+# GMT Mon Oct 30 12:01:36 2023
+# 
+0 1 12 3 2 4 8 11 6 7 9 15 5 17
+1 11 5 6 2 15 8 14 4 12 3 9 16 7
+2 3 4 8 13 10 9 11 15 16 5 14 6
+3 6 4 5 14 11 16 9 10 15 8 13 12
+4 5 10 9 16 15 8 6
+5 9 10 8 13
+6 7 9 16 8 10 15 11
+7
+8 9 16 15 11
+9 10 11
+10
+11 16 15 12
+12
+13 17
+14 17
+15
+16
+17
